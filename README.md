@@ -1,6 +1,6 @@
 # MorseCodeTool for Android
 
-![](./image/screenshot.png | width=270)
+<img src="/image/screenshot.png" width="40%" height="40%"/>
 
 ## Feature
 
